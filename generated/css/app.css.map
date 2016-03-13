@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "app.css",
+  "sources": [
+    "app/css/style.css"
+  ],
+  "names": [],
+  "mappings": "AAAA;AACA;AACA;AACA;A",
+  "sourcesContent": [
+    ".hello {\r\n  background-color: #efefef;\r\n  border: 1px solid #dedede;\r\n}\r\n"
+  ]
+}
